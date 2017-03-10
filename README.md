@@ -1,5 +1,5 @@
 #University 
-examples of programming work for university, some features/codes might not functional due to the database/web hosting were provided by the University
+Examples of programming work for university, some features/codes might not functional due to the database/web hosting were provided by the University
 
 
 PHP - 
